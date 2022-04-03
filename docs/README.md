@@ -32,6 +32,9 @@ Brincando com o Tensorflow:  [https://playground.tensorflow.org/](https://playgr
 [BodyPix: Segmentador de pessoas com Webcam](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html)
 
 
+## Slides da palestra
+
+[Slides Momento Insper Fortaleza](https://insper-my.sharepoint.com/:b:/g/personal/fabiorm2_insper_edu_br/EQLIrPogTOdPowv3zidc6qEBPVKVfpvXuKe5zH_WiinYBQ?e=OPQPNd)
 
 
 ## Links Insper
