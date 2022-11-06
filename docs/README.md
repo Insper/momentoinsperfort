@@ -16,15 +16,13 @@ Google Colab: [https://bit.ly/fortalezacolab](https://bit.ly/fortalezacolab)
 
 [AlphaGo The Movie [<ins>https://www.youtube.com/watch?v=WXuK6gekU1Y</ins>](https://www.youtube.com/watch?v=WXuK6gekU1Y)]
 
-Rede Neural Convolucional que reconhece dígitos: Como Funciona [https://www.cs.ryerson.ca/~aharley/vis/conv/](https://www.cs.ryerson.ca/~aharley/vis/conv/)
+Rede Neural Convolucional que reconhece dígitos: Como Funciona [https://adamharley.com/nn_vis/cnn/2d.html](https://adamharley.com/nn_vis/cnn/2d.html)
 
 Brincando com o Tensorflow:  [https://playground.tensorflow.org/](https://playground.tensorflow.org/
 )
 
 
 ## Demos de Redes Neurais com Webcam
-
-[Rede neural que reconhece dígitos](https://www.cs.ryerson.ca/~aharley/vis/conv/)
 
 [Detector de objetos COCO com Webcam](https://z364noozrm.codesandbox.io/
 )
